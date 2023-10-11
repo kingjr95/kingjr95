@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Tony! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/kingjr95/LABURL)
+
+<h2>📺 Certifications:</h2>
+
+- [CompTIA A+]()
+- [CompTIA Network+]()
 
 <!--
-**kingjr95/kingjr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

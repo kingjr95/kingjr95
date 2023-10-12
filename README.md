@@ -6,8 +6,10 @@
 
 <h2>📺 Certifications:</h2>
 
-- [CompTIA A+]()
-- [CompTIA Network+]()
+- CompTIA A+
+- CompTIA Network+
+
+<!-- In order to make certs clicklable you need to add the parenthesis () next to the name like [CompTIA A+](), -->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

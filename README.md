@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tony! <br/><a href="https://github.com/kingjr95">Cybersecurity Professional</a>
+<h1>Hi, I'm Tony! <br/><a>Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

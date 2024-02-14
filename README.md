@@ -10,6 +10,7 @@
 - CompTIA Network+
 - ISC2 Certified in Cybersecurity
 - CCST (Cybersecurity)
+- CompTIA Security+ (Expected, 2024)
 
 <!-- In order to make certs clicklable you need to add the parenthesis () next to the name like [CompTIA A+](), -->
 
